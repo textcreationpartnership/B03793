@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Information for Whytefield Hayter, and James Chiesly merchants in London, and partners. Against the skinners in Edinburgh.</title>
+            <author>Hayter, Whytefield, merchant, fl. 1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03793</idno>
+            <idno type="STC">Wing I169C</idno>
+            <idno type="STC">ESTC R178668</idno>
+            <idno type="EEBO-CITATION">51617615</idno>
+            <idno type="OCLC">ocm 51617615</idno>
+            <idno type="VID">175263</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03793)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175263)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2725:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Information for Whytefield Hayter, and James Chiesly merchants in London, and partners. Against the skinners in Edinburgh.</title>
+                  <author>Hayter, Whytefield, merchant, fl. 1695.</author>
+                  <author>Chiesly, James, merchant, fl. 1695.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data from Wing.</note>
+                  <note>Hayter and Chiesly had set up a company for dressing and colouring leather, to the objections of the skinners of Edinburgh.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hayter, Whytefield, --  merchant, fl. 1695 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Chiesly, James, --  merchant, fl. 1695 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Hides and skins industry --  Scotland --  Early works to 1800.</term>
+               <term>Hides and skins --  Dressing and dyeing --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:175263:1"/>
+            <!-- PDF PAGE 28 -->
+            <head>INFORMATION For <hi>VVhytefield Hayter,</hi> and <hi>James Chieſly</hi> Mer<g ref="char:EOLhyphen"/>chants in <hi>London,</hi> and Partners.</head>
+            <head type="sub">Againſt The Skinners in <hi>Edinburgh.</hi>
+            </head>
+            <p>THe ſaid <hi>Whitefield Hayter, &amp;c.</hi> all Scotſmen beſides himſelf, and ſome reſi<g ref="char:EOLhyphen"/>ding here, having attained to more than ordinary perfection in the Ai<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of dreſſing and colouring of Leather, making of Glews and Parch<g ref="char:EOLhyphen"/>ment, and entered in Society and Co-partnerie, and ſtocked a vaſt Sum of money for carring on a conſiderable Trade there with; they did mean themſelves to the Lords of his Majeſties Privy Council, and craved that they might be declared to be free Manufactorie, and have the priviledge of the ſame, and according<g ref="char:EOLhyphen"/>ly conform to the Act of Parliament 1661, obtained the deſire of their Petiti<g ref="char:EOLhyphen"/>on, and were allowed all the Priviledges competent by Law to a Manu<g ref="char:EOLhyphen"/>factory; Againſt which Act the Skinners having reclaimed by a Petition, re<g ref="char:EOLhyphen"/>preſenting all that was poſſible for them to do, and craving that the ſaid Act might be recalled, the ſaid Lords were pleaſed upon Anſwers given in by the ſaid <hi>Whitefield Hayter</hi> moſt readily to refuſe the deſire of the Bill given in by the Skinners, and to adhere to their former Act with this Addition, that the ſaid <hi>Hay<g ref="char:EOLhyphen"/>ter</hi> and Partners ſhould ſet up in no Burgh-Royal within this Kingdom, unleſs up<g ref="char:EOLhyphen"/>on Invitation, and with the Conſent of the Burgh, and that they ſhould take Scotſ<g ref="char:EOLhyphen"/>men both to be Partners and Apprentices, and communicat the Secret of the Trade to ſuch Apprentices, upon the faith of, and conform to theſe two Acts, the ſaid <hi>Hayter</hi> and Partners did increaſe their Stocks, and have been at vaſt Char<g ref="char:EOLhyphen"/>ges and Expenſes for carring on the ſaid Manufactory this while bypaſt; But (as it would appear by the inſtigation of the Skinners) the Priviledge competent to them as a Manufactory, not being pleaſantly allowed them, and the Partners being unwilling to mortifie more Money unleſs they had an Act of Parliament in their favours, they meaned themſelves to the Parliament, crav<g ref="char:EOLhyphen"/>ing that the Act of Council might be Ratified, and they have an ſpecial Act in their own name, againſt which it is informed, the Skinners did compear and object. 1. That the ſaid <hi>Hayter</hi> and Partners had no Skill in dreſſing and colour<g ref="char:EOLhyphen"/>ing of Leather, at leaſt can pretend to no better Skill therein than the Skinners themſelves, and have offered no Specimen of their Airt, and do offer to make appear that they can dreſs Marikin and Shambo, which the Partners cannot pretend to do, and are content to produce Specimens of that ſame Leather, to which the Partners pretend Skill, and unleſss there were great odds of their Skill, the Partners ought not to have the Priviledge of the Manufactory, and that by the ſaid Erection, they and the hail skinners of the Kingdom ſuſtain prejudice, in ſo far as that Skins are bought up by them, and exported out of the King<g ref="char:EOLhyphen"/>dom, ſo that the Skinners cannot have enough of the Product of this Kingdom to ſerve the Leidges but at dear Rates. 2. That if the ſaid Manufactory be free of publick Burden, they will be able to out-ſell all the Skinners who bear a proportion of theſe Burdens, and ſo inhance the ſaid Trade, as alſo other Manufactories may be incouraged to be ſet up to the prejudice and Ruine of
+<pb n="2" facs="tcp:175263:2"/>
+               <!-- PDF PAGE 29 -->other Trades. 3. By Erecting ſuch a Manufactory, there will ariſe a conſide<g ref="char:EOLhyphen"/>rable Diminution of the Kings Cuſtoms, at leaſt the Tradeſmen and others would come to be over-charged by their Immunity. 4. The ſaid Skinners have Seals of Cauſe confirmed by ſeveral Acts of Parliament erecting them in an Corporation, and granting them many Priviledges, and particularly that none ſhould be allowed to exercethe Skinner Trade, but ſuch as are admitted by the ſaid Incorporation.</p>
+            <p>
+               <hi>Whytfield Hayter</hi> and his Partners, need make no other anſwer but ſhortly this, that all theſe Objections were under the Lords of Privy Council their Conſi<g ref="char:EOLhyphen"/>deration the time of their pronouncing their Acts, and particularly their ſecond Act, and that the Oppoſition made by the Skinners, is chiefly of deſign to have a Monopolie of dreſſing of Skins in their own hands, which may clearly appear from this, that there being only One in the Kingdom who knows to dreſs Lea<g ref="char:EOLhyphen"/>ther: the Skinners at leaſt ſome of them hath taken him bound to Work, to none but themſelves. However more particularly it is anſwered, 1. that what is repreſented by the Skinners themſelves anent the Exportation of Leather, doth fully evince the Partners Skill in dreſſing of Leather, ſeing if the Leather were not dreſt better than ordinar, it could not be ſo Exported as the Skinners do complain it is, and ſeing the Encouragment of the Exportation of t he native Commodities and Manufactories of the Kingdom does ſo much tend to the Ad<g ref="char:EOLhyphen"/>vantage both of His Majeſties Cuſtoms, and of the whole Nation: it is ho<g ref="char:EOLhyphen"/>ped that the Skinners Argument founded upon the great Exportation of Leather occaſioned by the foreſaid Manufactory, will be ſo far from Tending to their prejudice, that on the contrair, the Co-partners will retort the ſame, and make it an Argument why the Act of Parliament ought to paſs in their Favours and as to any thing that is founded upon the Skinners Skill in dreſſing Shambo and Marikin: the Co-partners are not concerned therein, ſeing it is no part of their Manufactorie: but as to any ſpecimen of their Art, if need beis they are willing to give the ſame when required, but as ſaid is, the great Export (al<g ref="char:EOLhyphen"/>beit it be not ſo great, but there always remaine ſufficient to ſerve the Skin<g ref="char:EOLhyphen"/>ners, and a great quanity of Skins even in the Wool are yearly Exported,) is a ſufficient Demonſtration and Proof of their Skill.</p>
+            <p>It is anſwered to the <hi>2d.</hi> and <hi>3d.</hi> that the ſame is of no moment in reſpect that the Partners have been at vaſt Charges and Expenſes in ſetting up their ſaid Manufactorie, which will more than ballance any Immunity they may enjoy beſides that always there is Encouragement given to ingenious Spirites for pro<g ref="char:EOLhyphen"/>moting of new Inventions and Manufactories, and the Advantage ariſing by the Immunities being but ſmall, the Skinners their proportion of Releif will be very inconſiderable, and will bear no Proportion with the Advantage they and the Leiges will reap by the Encouragment of the ſaid Manufactorie, eſpecially theſe whoſe ſtates conſiſts in Sheep and Cowes, neither will the King ſuſtain a<g ref="char:EOLhyphen"/>ny prejudice thereby, ſeing the Thriving of the Nation is His Majeſties great Intereſt and Deſire, and that as ſaid is, the Kingdom is much bettered by the Export, beſides that the forſaid Export will occaſions the Import of Commo<g ref="char:EOLhyphen"/>dities, which will augment His Majeſties Cuſtoms, much more than they were diminiſhed throw not paying of Duty for Export.</p>
+            <p>It is anſwered to the 4th that the <hi>Seal of Cauſe</hi> does no waves meet the preſent Caſe, ſeing, conform to Act of Council, the Co-partner are not to ſet up with<g ref="char:EOLhyphen"/>in any Burgh Royal, far leſs within the Town of <hi>Edinburgh.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
